@@ -16,4 +16,4 @@
     - genes que codificam enzimas/proteínas transportadores, receptores de certas substâncias
 - Essa info, em farmacologia, é escrita de forma diferente da escrita em genética, e varia de acordo com a homozigose ou heterozigose desse gene de metabolização de fármacos
   - também varia de acordo com a forma de metabolização - farmaco ativo ou pró-fármaco, por exemplo
-  - 
+- Existem várias guidelines disponíveis, centenas de marcadores, e é uma forma de ajudar a errar menos
